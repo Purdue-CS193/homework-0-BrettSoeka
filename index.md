@@ -1,4 +1,4 @@
-#Brett Soeka's First CS193 Homework
+# Brett Soeka's First CS193 Homework
 
 -The lecturers are amazing and easy to connect with
 -There isn't that much homework
